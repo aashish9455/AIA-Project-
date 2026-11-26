@@ -62,4 +62,4 @@ heart-disease-logistic-regression/
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## Author
-Rishabh
+Aashish
